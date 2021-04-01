@@ -1,5 +1,4 @@
-# SAS
-Anything SAS and SAS language.
+# SAS Anything SAS and SAS language.
 
 
 FIRST STEPS WHEN WRITING CODE FOR A REPORT
